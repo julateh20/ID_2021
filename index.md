@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Julateh Mulbah Data Science Portfolio
 
 You can use the [editor on GitHub](https://github.com/julateh20/ID_2021_TeamKJS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
