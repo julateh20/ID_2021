@@ -11,3 +11,8 @@ This is stockholm file_
 * i don't know *
 * i am helpless*
 >>>>>>> gothenburg
+
+
+
+
+# Merge confliction almost solve
